@@ -8,7 +8,10 @@
 
 ## LWC:
 
-  - AccountHistoryComponent Triggers:
+  - AccountHistoryComponent
+  
+##Triggers:
+
   - AccountTrigger
 
 ## Custom Object:
