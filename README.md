@@ -16,3 +16,5 @@
 
 ## Lightning Layout
   - Account_Record_Page
+  
+## History LWC component is located in History tab on Account Lightning record page.
